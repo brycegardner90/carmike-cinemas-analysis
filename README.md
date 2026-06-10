@@ -94,7 +94,7 @@ ORDER BY year;
 ### Dashboard 1 — The Financial Story (1987–2015)
 *Revenue growth masked a debt crisis decades in the making*
 
-[![Dashboard 1](screenshots/dashboard1_financial_story.png)](https://public.tableau.com/app/profile/bryce.gardner/viz/CarmikeCinemas)
+[![Dashboard 1](screenshots/dashboard1_financial_story.png)](https://public.tableau.com/app/profile/bryce.gardner/viz/CarmikeCinemas/CarmikeCinemasRiseFallAcquisition)
 
 Three charts tell the financial story together:
 
@@ -109,7 +109,7 @@ Three charts tell the financial story together:
 ### Dashboard 2 — The Scale & Timeline Story (1982–2016)
 *From 265 screens to 2,954 — and every decision that shaped the journey*
 
-[![Dashboard 2](screenshots/dashboard2_scale_timeline.png)](https://public.tableau.com/app/profile/bryce.gardner/viz/CarmikeCinemas)
+[![Dashboard 2](screenshots/dashboard2_scale_timeline.png)](https://public.tableau.com/app/profile/bryce.gardner/viz/CarmikeCinemas/CarmikeCinemasRiseFallAcquisition)
 
 **Screen Count Arc** tells the expansion story visually — 265 screens at founding, 2,800 at the 2000 peak, a hard crash to 2,250 screens during bankruptcy restructuring, a slow rebuild, then 2,954 screens at the moment of AMC acquisition. The shape of the area chart alone tells the whole story.
 
