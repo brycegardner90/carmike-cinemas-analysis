@@ -1,0 +1,25 @@
+id,year,event_label,event_type,event_detail,during_bryce_tenure
+1,1982,Carmike Founded,founding,Patrick family buys Martin Theatres from Fuqua Industries for $25M in LBO,0
+2,1986,IPO on NASDAQ,founding,Goes public; acquires Essantee Theatres (+209 screens),0
+3,1989,Consolidated Theatres acquired,acquisition,Adds 116 screens; revenues approaching $100M,0
+4,1991,Excellence Theatres JV,acquisition,Joint venture adds 353 screens — biggest single leap in company history,0
+5,1993,Manos Enterprises acquired,acquisition,Adds 80 screens; revenue jumps to $242M,0
+6,1994,Cinema World + General Cinema,acquisition,Acquires 178 screens from Cinema World and 48 from General Cinema,0
+7,1995,#1 US cinema chain by screens,external,"Reaches 2,223+ screens — briefly largest chain in US by screen count",0
+8,1997,Hollywood Connection JV w/ Walmart,acquisition,"Entertainment center concept; combined multiplex, skating rink, arcade",0
+9,1998,Goldman Sachs invests $55M,external,Goldman buys 16% stake; company begins heavy borrowing for expansion,0
+10,1999,$200M senior subordinated notes,external,Issues $200M in 9.375% bonds; total debt reaches ~$650M,0
+11,2000,Chapter 11 Bankruptcy,bankruptcy,"Files Aug 8, 2000; missed $9M interest payment; owed ~$650M",0
+12,2002,Emerges from bankruptcy,bankruptcy,Restructured; reduced to 308 theaters from 448,0
+13,2005,GKC Theatres acquired,acquisition,"Buys George Kerasotes Corp for $66M; adds 30 theaters, 263 screens",0
+14,2007,Carl Patrick Sr. dies,leadership,"Founder passes July 4, 2007",0
+15,2009,Michael Patrick removed as CEO,leadership,Board removes Patrick; David Passman named interim then permanent CEO (June 2009),1
+16,2009,Avatar released — 3D boom begins,external,Dec 2009; drives record Q4 attendance; Carmike had 500+ 3D screens,1
+17,2010,Mark Cuban 9.4% stake (2008),external,Cuban acquired stake Dec 2008 for investment purposes,1
+18,2012,Rave Cinemas acquisition,acquisition,"Buys 16 theaters, 251 screens for $19M + $100.4M assumed leases; first IMAX screens",1
+19,2013,Muvico acquisition,acquisition,"Acquires 9 complexes, 147 screens; expands Florida presence",1
+20,2013,Passman wins EY Entrepreneur of Year,leadership,SE Region Leadership award; peak of Passman era,1
+21,2015,Sundance Cinemas acquired,acquisition,October 2015; adds premium arthouse locations,0
+22,2016,AMC acquisition announced,acquisition,AMC offers $30/share; ~$1.1B deal including debt assumption,0
+23,2016,AMC acquisition closes,acquisition,"December 21, 2016; Carmike ceases to exist as independent entity",0
+24,2017,Brand retired — becomes AMC Classic,founding,Carmike name retired May 2017; smaller locations rebranded AMC Classic,0

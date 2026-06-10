@@ -1,0 +1,30 @@
+year,revenue_mil,net_income_mil,total_debt_mil,data_quality,employment_period,company_era
+1987,84.0,3.0,,confirmed,Outside Employment,Growth Era
+1988,101.6,,,estimated,Outside Employment,Growth Era
+1989,119.2,,,estimated,Outside Employment,Growth Era
+1990,136.8,,,estimated,Outside Employment,Growth Era
+1991,154.4,,,estimated,Outside Employment,Growth Era
+1992,172.0,,,confirmed,Outside Employment,Growth Era
+1993,242.0,,,confirmed,Outside Employment,Growth Era
+1994,282.8,,,estimated,Outside Employment,Growth Era
+1995,323.7,,,estimated,Outside Employment,Growth Era
+1996,364.5,,,estimated,Outside Employment,Growth Era
+1997,405.3,,,estimated,Outside Employment,Growth Era
+1998,446.2,,,estimated,Outside Employment,Growth Era
+1999,487.0,,650.0,confirmed,Outside Employment,Growth Era
+2000,418.8,,680.0,estimated,Outside Employment,Bankruptcy
+2001,461.4,,620.0,estimated,Outside Employment,Restructuring
+2002,504.0,,480.0,derived,Outside Employment,Restructuring
+2003,499.2,,465.4,estimated,Outside Employment,Recovery
+2004,494.5,,450.8,confirmed,Outside Employment,Recovery
+2005,490.4,,436.1,estimated,Outside Employment,Recovery
+2006,486.2,,421.5,estimated,Outside Employment,Recovery
+2007,482.1,-126.9,406.9,confirmed,Outside Employment,Recovery
+2008,472.7,-41.4,392.3,confirmed,Bryce Employment,Passman Era
+2009,514.7,-15.4,369.1,confirmed,Bryce Employment,Passman Era
+2010,491.3,,353.4,confirmed,Bryce Employment,Passman Era
+2011,477.8,-7.7,315.4,confirmed,Bryce Employment,Passman Era
+2012,539.3,96.3,366.2,confirmed,Bryce Employment,Passman Era
+2013,533.9,,311.4,confirmed,Bryce Employment,Passman Era
+2014,689.9,,352.0,confirmed,Outside Employment,Acquisition Era
+2015,804.4,,337.0,confirmed,Outside Employment,Acquisition Era
