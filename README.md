@@ -159,8 +159,8 @@ This project taught me that **business failure is rarely about operations**. It'
 |---|---------|-------|-------|
 | **Business Analysis Series** | | | |
 | 1 | 🎬 Carmike Cinemas *(this project)* | Python · SQLite · Tableau | Cinema industry — rise, bankruptcy & acquisition |
-| 2 | 🌮 On The Border *(Coming Soon)* | Python · SQLite · Tableau | Casual dining — location strategy & brand longevity |
-| 3 | 🍹 Kona Grill *(Coming Soon)* | Python · SQLite · Tableau | Upscale casual — growth, COVID impact & acquisition |
+| 2 | 🌮 [On The Border](https://github.com/brycegardner90/on-the-border-analysis) | Python · SQLite · Tableau | Casual dining — PE ownership & brand decline |
+| 3 | 🍹 [Kona Grill](https://github.com/brycegardner90/kona-grill-analysis) | Python · SQLite · Tableau | Upscale casual — overexpansion, bankruptcy & recovery |
 | **Original Portfolio** | | | |
 | 1 | 🎮 [Video Game Sales Analysis](https://github.com/brycegardner90/video-game-sales-analysis) | SQL · Power BI | Sales trends & publisher performance |
 | 2 | 🏈 [NFL Penalty Bias Analysis](https://github.com/brycegardner90/nfl-penalty-analysis) | SQL · Power BI | Referee bias & penalty patterns |
